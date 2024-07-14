@@ -50,3 +50,10 @@ body{
     text-align: justify;
     margin: auto auto auto 250px;
 }
+a{
+    color: cyan;
+    text-decoration: none;
+}
+a:hover{
+    color: #0d6efd;
+}
