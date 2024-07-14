@@ -1,0 +1,52 @@
+body{
+    background-color: #1A1B1E;
+    color: #C1C2C5;
+}
+.btn-outline-primary{
+    border: 0;
+}
+.nav-link{
+    color: cyan;
+    font-weight: bold;
+}
+.header{
+    border-bottom: 1px solid cyan;
+}
+.copy{
+    color: #C1C2C5;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bold;
+}
+::selection {
+    color: #1A1B1E;
+    background: cyan;
+}
+.home{
+    color: #C1C2C5;
+    font-weight: bold;
+}
+.carlos{
+    border-radius: 100%;
+    width: 250px;
+}
+#about{
+    font-weight: 700;
+    margin: auto auto auto 250px;
+}
+#contact{
+    font-weight: 700;
+}
+.icons{
+    width: 75px;
+}
+.tech{
+    width: 75px;
+}
+#tech{
+    font-weight: 700;
+}
+.about{
+    text-align: justify;
+    margin: auto auto auto 250px;
+}
